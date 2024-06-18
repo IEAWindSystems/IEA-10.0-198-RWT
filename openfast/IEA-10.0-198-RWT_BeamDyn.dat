@@ -22,7 +22,7 @@ True                   RotStates   - Orient states in the rotating frame during 
 1, 19                  kp_per_member - Member number; Number of key points in this member
      kp_xr           kp_yr           kp_zr       initial_twist 
       (m)             (m)             (m)            (deg)     
--1.42320206e-14	      -0       	 3.57140979e-12	 1.45000000e+01
+0.	                  0.       	 0.         	 1.45000000e+01
 -7.72490364e-03	 1.01172945e-04	 9.68373009e-01	 1.42281247e+01
 -1.59039643e-02	 8.91381380e-04	 2.90424354e+00	 1.37618021e+01
 -1.25024460e-02	 4.52689075e-02	 4.83886285e+00	 1.34233315e+01
