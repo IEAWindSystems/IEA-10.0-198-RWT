@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# OpenFAST related
+*.out
+*.outb
+*.sum
+*.ech
